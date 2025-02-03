@@ -4,10 +4,7 @@
 
 package com.mycompany.myproject;
 
-/**
- *
- * @author mmrr1
- */
+
 public class MyProject {
 
     public static void main(String[] args) {
